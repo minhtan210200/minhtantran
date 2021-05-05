@@ -1,0 +1,187 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding: 0;
+	margin: 0;
+}
+.navbar{
+	background: black;
+}
+.navbar-brand img{
+	width: 100px;
+}
+.banner{
+	background-image: url("image/u2_state0.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+	background-blend-mode: overlay;
+	height: 100vh;
+	background-size: cover;
+}
+#navbarTogglerDemo03 ul li a{
+	color: aliceblue;
+}
+
+.row{
+	padding: 55px;
+}
+.tieude{
+	font-size: 20px !important; 
+	color: aliceblue;
+	margin-left: 200px;
+	padding-top: 10%;
+}
+.font-weight-light{
+	font-size: 25px;
+	color: #6A6868
+}
+.icon a{
+	font-size: 60px;
+	padding: 27px;
+}
+#social{
+	background:#F3F3F3;
+}
+.socialmedia{
+	font-size: 25px;
+	color: #D9D9D9;
+}
+.icon a{
+	font-size: 30px;
+	color: #D9D9D9;
+	
+}
+.nd{
+	padding: 100px 0px;
+}
+.button_tab{
+	font-family: 'open san',sans-serif;
+	font-weight: bold;
+	padding: 40px;
+	color:white;
+	background-color:#181717;
+	border: none;
+	border-radius: 5px;
+	
+}
+.orange{
+	background: orange;
+}
+.button2{
+	font-family: 'open san',sans-serif;
+	color:white;
+	padding: 10px 15px;
+	background: #FFA500;
+	border: none;
+	border-radius: 5px;
+	margin-top: 50px;
+}
+.round{
+	width: 50px;
+	height: 50px;
+	border: solid #FFA500;
+	border-radius: 50%;
+	color: #FFA500;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+#nd2{
+	background:#F3F3F3;
+}
+.textne{
+	padding-top: 23px;
+}
+#Pricingoptions{
+	background: #f5f5f5;
+}
+.nd{
+	padding: 100px 0;
+}
+.price{
+	list-style-type: none;
+	margin: 0;
+	padding: 100px 0;
+}
+.price .header{
+	font-family: 'open sans',sans-serif;
+	background-color: #333333;
+	color: white;
+	font-size: 20px;
+}
+.price li.money{
+	font-family: 'raleway',sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+.price li.type{
+	font-style: italic;
+	font-size: 15px;
+}
+.orangeline{
+	height: 3px;
+	background: #ff8b38 !important;
+	padding: 0 !important;
+}
+.orangeline1 p{
+	visibility: hidden;
+	text-align: center;
+	font-family:  'open sans',sans-serif;
+}
+.orangeline1{
+	height: 30px;
+	background: #ff8b38 !important;
+}
+.price hover{
+	padding: 70px 0;
+}
+.orangeline1{
+	visibility: visible;
+	color: white;
+}
+.orangeline{
+	height: 3px;
+}
+.price li{
+	border-bottom: 1px solid #eee;
+	padding: 10px;
+	text-align: center;
+	background-color: white;
+	font-size: 15px;
+	color: 86878b;
+}
+.bannercoui{
+background-image: url("image/u25_state0.jpg"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+	background-blend-mode: overlay;
+	height: 60vh;
+	background-size: cover;
+/*	height: 100px*/
+}
+.coltext{
+	padding-top: 120px;
+}
+.coltext h1{
+	color: white;
+}	
+.coltext p{
+	color: #938F8F;
+}
+.coltext{
+	padding-left: 250px;
+}
+.button2{
+	margin: 0 auto;
+	
+}
+.text{
+	margin-top: 70px;
+}
+footer{
+	background: black;
+	width:100%;
+}
+.footer-copyright a{
+	color: grey;
+	
+}
+
+
+
